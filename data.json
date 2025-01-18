@@ -6,7 +6,7 @@
         "position": "Guard",
         "age": 26,
         "country": "USA",
-        "image": "src/assets/images/malik-monk.png"
+        "image": "images/malik-monk.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "position": "Guard",
         "age": 28,
         "country": "USA",
-        "image": "src/assets/images/jordan-mclaughlin.png"
+        "image": "images/jordan-mclaughlin.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "position": "Guard",
         "age": 26,
         "country": "USA",
-        "image": "src/assets/images/deaaron-fox.png"
+        "image": "images/deaaron-fox.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "position": "Forward",
         "age": 32,
         "country": "USA",
-        "image": "src/assets/images/doug-mcdermott.png"
+        "image": "images/doug-mcdermott.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "position": "Fuard",
         "age": 26,
         "country": "USA",
-        "image": "src/assets/images/mason-jones.png"
+        "image": "images/mason-jones.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "position": "Guard-Forward",
         "age": 26,
         "country": "USA",
-        "image": "src/assets/images/kevin-huerter.png"
+        "image": "images/kevin-huerter.png"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "position": "Guard-Forward",
         "age": 35,
         "country": "USA",
-        "image": "src/assets/images/demar-derozan.png"
+        "image": "images/demar-derozan.png"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "position": "Forward-Center",
         "age": 28,
         "country": "Lithuania",
-        "image": "src/assets/images/domantas-sabonis.png"
+        "image": "images/domantas-sabonis.png"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "position": "Forward",
         "age": 24,
         "country": "USA",
-        "image": "src/assets/images/keegan-murray.png"
+        "image": "images/keegan-murray.png"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "position": "Forward",
         "age": 24,
         "country": "USA",
-        "image": "src/assets/images/isaac-jones.png"
+        "image": "images/isaac-jones.png"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "position": "Guard",
         "age": 22,
         "country": "USA",
-        "image": "src/assets/images/colby-jones.png"
+        "image": "images/colby-jones.png"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "position": "Guard",
         "age": 22,
         "country": "USA",
-        "image": "src/assets/images/devin-carter.png"
+        "image": "images/devin-carter.png"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "position": "Guard",
         "age": 24,
         "country": "USA",
-        "image": "src/assets/images/keon-ellis.png"
+        "image": "images/keon-ellis.png"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "position": "Forward",
         "age": 23,
         "country": "USA",
-        "image": "src/assets/images/isaiah-crawford.png"
+        "image": "images/isaiah-crawford.png"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "position": "Center",
         "age": 31,
         "country": "Ukraine",
-        "image": "src/assets/images/alex-len.png"
+        "image": "images/alex-len.png"
     },
     {
         "id": 16,
@@ -141,6 +141,6 @@
         "position": "Forward",
         "age": 29,
         "country": "Canada",
-        "image": "src/assets/images/trey-lyles.png"
+        "image": "images/trey-lyles.png"
     }
 ]
